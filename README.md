@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full web and App Developer
 
 * 🌍  I'm based in Vientiane capital, laos
-* ✉️  You can contact me at [eeyang5@gmail.com](mailto:eeyang5@gmail.com)
+* ✉️  You can contact me at [eeyang5@gmail.com](mailto:eeyang5@gmail.com) or +8562057779422
 * 🚀  I'm currently portfolio on [Paymart payrich](http://prpmart.com) and [Paymart App](https://play.google.com/store/apps/details?id=com.paymart.user)
 * 🧠  I'm learning Nodejs, typescript, Python, GO, MongoDB
 * 🤝  I'm open to collaborating on App and Web fontEnd and BankEnd Developer
